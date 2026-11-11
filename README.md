@@ -2,7 +2,7 @@
 
 **Helping Anonymous-type pages stop fake Anonymous Collective scammer bots and fixed-betting / membership scams**
 
-![Broken scammer bot repeating "My network was block totally"](./images/broken-scammer-bot.jpg)
+![Example of broken fake Anon scammer bot repeating "My network was block totally"](./images/broken-scammer-bot.jpg.jpg)
 
 ## The Problem
 
