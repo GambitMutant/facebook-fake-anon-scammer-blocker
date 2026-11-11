@@ -1,12 +1,12 @@
-# Blocking Fake Anonymous Scammer Bots on Facebook
+# Blocking Fake Anonymous Scammer Bots on Facebook (aka Fake Anonymous Collective Scammer Bots)
 
-**Helping Anonymous-type pages stop fixed-betting and membership scams**
+**Helping Anonymous-type pages stop fake Anonymous Collective scammer bots and fixed-betting / membership scams**
 
 ![Broken scammer bot repeating "My network was block totally"](./images/broken-scammer-bot.jpg)
 
 ## The Problem
 
-The Anonymous page I co-own has been targeted by fake Anon scammers for a long time. These accounts:
+The Anonymous page I co-own has been targeted by fake Anon (aka Anonymous Collective) scammers for a long time. These accounts:
 
 - Reply to fans’ comments
 - Use scam-style profile names
@@ -31,7 +31,7 @@ After the latest round of additions, some of the bots are now broken. The screen
 
 These comments were liked by a different scammer whose own comment had already been auto-hidden.
 
-**We have successfully broken the fake Anon scammer bots… for now.**
+**We have successfully broken the fake Anon (aka Anonymous Collective) scammer bots… for now.**
 
 This repository is for documentation and raising awareness only. No self-promotion intended.
 
