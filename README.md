@@ -81,6 +81,23 @@ Official help: [Block words from comments](https://www.facebook.com/help/1182883
 
 Stay safe, and share this with other Anonymous-related pages.
 
+## Donations
+
+Donations support **The AEGIS Alliance’s** project funding. A secondary purpose is business operations funding.
+
+- **AEGIS News**: https://theaegisalliance.com/
+- **AEGIS Shop**: https://shop.theaegisalliance.com/
+- **PayPal, Venmo, and Zelle**: `aegisalliance`
+- **Cash App**: `$aegisalliance`
+
+**Crypto accepted at Coinbase:**
+
+- **USDC**: `0x39C7e115C4184f2E646D44E3681A87a22a93341B`
+- **BTC**: `3PCJwFfVytUCW2mfgUgKbjWmqsYvTzgCH1`
+- **ETH**: `0xcD8B620962e9ff4a098c4134f1C82fDf96236F87`
+- **DOGE**: `DAo22guf8pmNcF1V7FvuqrXTgy2khuPysB`
+- **USDT**: `0x4aF2eE05A313c8a8dd53EdA87DDA69F3E375c3B5`
+
 ---
 
 *This list was developed from real-world experience co-managing a large Anonymous page. Use and improve it as needed.*
